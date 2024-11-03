@@ -6,3 +6,5 @@ This repo has been created in order to understand how git merge and git rebase w
 I have created this commit from GitHub 💻.
 
 I love coding !!
+
+I love Js.
